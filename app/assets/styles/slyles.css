@@ -478,4 +478,9 @@ a {
     margin-right: 1.4rem;
   }
 }
+
+.site-header {
+  position: absolute;
+  z-index: 2;
+}
 /*# sourceMappingURL=slyles.css.map */
